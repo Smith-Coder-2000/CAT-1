@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="EMS.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="EMS.xsd">
+  <Employee>
+  	<Emp-ID>01</Emp-ID>
+  	<Emp-name>Dobby</Emp-name>
+  	<Emp-age>60</Emp-age>
+  	<Emp-salary>65000</Emp-salary>
+  	<Emp-emailid>Dobby@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>7899224696</Emp-Phonenum>
+  	<Emp-designation>Manager</Emp-designation>
+  </Employee>
+  <Employee>
+  	<Emp-ID>02</Emp-ID>
+  	<Emp-name>Winky</Emp-name>
+  	<Emp-age>30</Emp-age>
+  	<Emp-salary>75000</Emp-salary>
+  	<Emp-emailid>Winky@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>9854756214</Emp-Phonenum>
+  	<Emp-designation>Designer</Emp-designation>
+  </Employee>
+  <Employee>
+  	<Emp-ID>03</Emp-ID>
+  	<Emp-name>Kreacher</Emp-name>
+  	<Emp-age>50</Emp-age>
+  	<Emp-salary>100000</Emp-salary>
+  	<Emp-emailid>Kreacher@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>9854756217</Emp-Phonenum>
+  	<Emp-designation>Developer</Emp-designation>
+  </Employee>
+  <Employee>
+  	<Emp-ID>04</Emp-ID>
+  	<Emp-name>Bernard</Emp-name>
+  	<Emp-age>42</Emp-age>
+  	<Emp-salary>90000</Emp-salary>
+  	<Emp-emailid>Bernard@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>9854756214</Emp-Phonenum>
+  	<Emp-designation>Developer</Emp-designation>
+  </Employee>
+  <Employee>
+  	<Emp-ID>05</Emp-ID>
+  	<Emp-name>Hermey</Emp-name>
+  	<Emp-age>45</Emp-age>
+  	<Emp-salary>110000</Emp-salary>
+  	<Emp-emailid>Hermey@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>9854756222</Emp-Phonenum>
+  	<Emp-designation>Developer</Emp-designation>
+  </Employee>
+</Company>
